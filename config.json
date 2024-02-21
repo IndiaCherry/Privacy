@@ -1,0 +1,56 @@
+{
+    "authToken":"MTIwODk2Nzc0MDExOTg0NzAwNQ.G8em5Y.DWgViBexHldT9NYCaGoGLjLBXAhhhepurIG0a8",
+  "database": {
+      "host": "roundhouse.proxy.rlwy.net",
+      "user": "root",
+      "password": "1hdcbd416CHgF56GggB22G6-2ha15fDD",
+      "database": "railway"
+  },
+  "googleApiKey": "google api key",
+  "googleCloud": {
+    "credentials": {
+      "client_email": "example@example-project.iam.gserviceaccount.com",
+      "private_key": "-----BEGIN PRIVATE KEY-----\nkey data\n----- END PRIVATE KEY -----\n"
+    },
+    "logging": {
+      "enabled": true,
+      "projectId": "example-project",
+      "logName": "modbot"
+    },
+    "vision": {
+      "enabled": true
+    }
+  },
+  "featureWhitelist": [
+    "123456789012345678"
+  ],
+  "emoji": {
+        "source": "123456789012345678",
+        "privacy": "123456789012345678",
+        "invite": "123456789012345678",
+        "discord": "123456789012345678",
+        "youtube": "123456789012345678",
+        "zendesk": "123456789012345678",
+        "firstPage": "123456789012345678",
+        "previousPage": "123456789012345678",
+        "refresh": "123456789012345678",
+        "nextPage": "123456789012345678",
+        "lastPage": "123456789012345678",
+        "announcement": "123456789012345678",
+        "channel": "123456789012345678",
+        "forum": "123456789012345678",
+        "stage": "123456789012345678",
+        "thread": "123456789012345678",
+        "voice": "123456789012345678",
+        "avatar": "123456789012345678",
+        "ban": "123456789012345678",
+        "moderations": "123456789012345678",
+        "mute": "123456789012345678",
+        "pardon": "123456789012345678",
+        "strike": "123456789012345678",
+        "kick": "123456789012345678",
+        "userCreated": "123456789012345678",
+        "userId": "123456789012345678",
+        "userJoined": "123456789012345678"
+  }
+}
